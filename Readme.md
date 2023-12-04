@@ -27,3 +27,7 @@
 ![Q2](./Pics/2.6.png)
 ## Sending invitation :D
 ![Q2](./Pics/2.7.png)
+
+## 3.Host your project with github pages
+![Q3](./Pics/3.1.png)
+![Q3](./Pics/3.2.png)
